@@ -1,0 +1,35 @@
+{
+  "prompt": "hyper-realistic professional photograph of a stunning 24-year-old Indian woman with warm medium brown skin and golden undertones, athletic-curvy toned physique, soft feminine curves, small waist, full breasts, doing an extreme advanced yoga pose in deep snowy winter forest, she performs a very flexible reclined bound angle variation (supta baddha konasana extreme inversion), lying back on a dark yoga mat placed directly on thick fresh snow, hips lifted high, legs raised straight up toward sky and crossed at ankles forming perfect X shape above her head, soles of feet facing camera, toes relaxed, incredible hip and hamstring flexibility on full display, wearing tight maroon wine-colored bikini, triangle top with thin straps showing deep cleavage, high-cut cheeky bikini bottom, silver navel piercing visible, long black hair tied in high messy bun with a few loose strands framing face, gentle confident smile, calm content expression, direct soft eye contact with camera, peaceful yet sensual empowered mood, bright sunny winter daylight, cold blue tones from snow reflection, subtle warm sunlight highlights on skin, dense snow-covered pine and spruce trees in background, powdery untouched snow everywhere, crisp freezing atmosphere contrasting with her warm glowing body, low angle upward shot from foot level, medium close-up framing emphasizing crossed legs, core strength, open chest and beautiful smiling face, shallow depth of field, cinematic lighting, ultra-detailed skin texture, subtle cold-flush on cheeks, photorealistic, 8k resolution, sharp focus, professional color grading, high fashion yoga aesthetic, body positivity, winter sensuality",
+  "negative_prompt": "blurry, low resolution, deformed, ugly, extra limbs, missing limbs, bad anatomy, poorly drawn hands, poorly drawn feet, fused fingers, extra fingers, mutated hands, mutation, deformed body, bad proportions, gross proportions, out of frame, cropped, text, watermark, logo, username, overexposed, underexposed, plastic skin, doll-like, cartoon, anime, illustration, painting, drawing, sketch, 3d render, cgi, extra people, indoor, warm lighting, summer, beach, pool, sweat, heavy makeup, lipstick, eyeliner, jewelry overload, shivering, discomfort, pain expression, closed eyes, looking away, obese, too thin, elderly, child, male, group, crowd, animals, buildings, city, artificial light, neon, smoke, fog, lens flare, chromatic aberration",
+  "aspect_ratio": "3:4",
+  "style_weights": {
+    "photorealistic": 1.4,
+    "cinematic": 1.1,
+    "high_detail": 1.3,
+    "professional_photography": 1.2
+  },
+  "technical": {
+    "camera": "Canon EOS R5, 50mm prime lens, f/1.8",
+    "lighting": "natural daylight + snow bounce light",
+    "post_processing": "subtle color correction, contrast boost, skin smoothing minimal"
+  },
+  "mood_tags": [
+    "serene",
+    "confident",
+    "sensual",
+    "empowered",
+    "peaceful",
+    "bold",
+    "winter contrast",
+    "body confident",
+    "yoga mastery"
+  ],
+  "scene_elements_priority": {
+    "subject_pose_and_flexibility": 95,
+    "facial_expression_eye_contact": 90,
+    "snowy_forest_environment": 85,
+    "bikini_and_navel_piercing": 80,
+    "temperature_contrast": 75,
+    "low_angle_dramatic_perspective": 70
+  }
+}
